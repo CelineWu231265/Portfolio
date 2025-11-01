@@ -1,0 +1,23 @@
+services:
+  backend:
+    image: celinewu1/nlp-api:latest
+    platform: linux/amd64
+    ports:
+      - "3126:8000"
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      - PYTHONPATH=/app/src
+    volumes:
+      - ./data/output:/app/output
+
+  frontend:
+    image: celinewu1/nlp-ui:latest
+    environment:
+      - API_URL=http://backend:8000
+    ports:
+      - "3127:7860"
+    depends_on:
+      - backend
+    restart: unless-stopped
