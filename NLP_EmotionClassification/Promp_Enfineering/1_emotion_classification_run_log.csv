@@ -1,0 +1,2 @@
+Run,Model,Sample Size,API_URL,Notes
+Emotion Classification,llama3.2:3b,20,http://194.171.191.227:30080/api/chat/completions,Used JSON output prompt to obtain predicted_emotion and notes.

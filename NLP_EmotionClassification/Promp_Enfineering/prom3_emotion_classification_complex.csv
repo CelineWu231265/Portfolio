@@ -1,0 +1,21 @@
+sentence,original_emotion,predicted_emotion,notes
+"My mother, aunt.",surprise,neutral,The sentence only lists family members without expressing any emotional content.
+"It is a vacylon, Sandra, uncle! It is a vacilón!",happiness,surprise,"The sentence is an exclamation of surprise or excitement, using colloquial expressions typical in Spanish culture to convey enthusiasm and playfulness."
+"Yes, it is true that I do not regret yesterday.",happiness,neutral,"The sentence expresses a neutral tone with no apparent emotional tone, as it simply confirms or denies regret without showing enthusiasm or strong emotions."
+Thank you. Thank you.,happiness,happiness,"Although the sentence seems like an expression of gratitude, the phrase 'Thank you' is often used in a sarcastic or ironic tone in the context of La isla de las tentaciones, implying that the speaker is actually annoyed or ungrateful."
+"-You're way too beautiful, girl.",happiness,disgust,The sentence is a comment that may be intended as flattery but comes across as objectifying and potentially derogatory. The dominant emotion expressed is disgust at the insincere or demeaning nature of the statement.
+The look.,happiness,,"Error parsing JSON: Expecting ',' delimiter: line 3 column 380 (char 415)"
+minutes.,neutral,neutral,"The sentence lacks emotional content, it appears to be a number"
+"How treats her, how she speaks.",happiness,disgust,The sentence suggests that the speaker finds someone's treatment or behavior of 'her' to be distasteful or unacceptable
+See that it does not continue in this same attitude.,sadness,disgust,The sentence expresses distaste or disapproval towards a behavior or attitude
+It is that boy who is eating the tits to one.,disgust,,Error parsing JSON: Expecting value: line 1 column 1 (char 0)
+Miguel makes me a ring.,surprise,neutral,The sentence is a simple statement of an action without expressing any strong emotions.
+Do not bite your lip.,anger,neutral,"The sentence is a simple instruction, lacking emotional tone or content."
+I have thought about it many times.,neutral,neutral,"The sentence is a neutral statement about reflection, without clear indicators of positive or negative emotions"
+It has a lot of value.,happiness,neutral,"The sentence expresses a neutral statement about something having value, without conveying any emotional tone or sentiment."
+I have not seen a look.,sadness,disgust,"Context of betrayal and relationship drama on the show 'La isla de las tentaciones' suggests a negative and possibly repulsive sentiment, which aligns with the emotion disgust."
+I need to understand ...,sadness,surprise,"The sentence expresses uncertainty and a need for clarification, suggesting a sense of surprise or astonishment at the unknown situation"
+Do you feel like? Yeah.,neutral,neutral,"The sentence is an open-ended question with no clear emotional tone or context, suggesting a neutral or inquiring attitude."
+"My love, I'm very close to 30.",fear,sadness,"The sentence implies a sense of loss or nostalgia as the speaker approaches their 30th birthday, suggesting a possible sadness about leaving youth behind"
+I don't care if it's Caribbean,neutral,disgust,"The sentence expresses a strong feeling of indifference or annoyance, likely towards the exotic location mentioned"
+And it is a kid.,surprise,disgust,"The sentence is dismissive and condescending towards a child, implying a negative or unpleasant attitude."

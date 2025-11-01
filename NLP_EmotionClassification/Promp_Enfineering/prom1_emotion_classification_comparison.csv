@@ -1,0 +1,21 @@
+sentence,original_emotion,predicted_emotion,notes
+"My mother, aunt.",surprise,neutral,Lack of information about emotions or context makes it difficult to assign a specific emotion.
+"It is a vacylon, Sandra, uncle! It is a vacilón!",happiness,disgust,"Sentence contains repeated use of an unusual or made-up word, suggesting a playful and teasing tone."
+"Yes, it is true that I do not regret yesterday.",happiness,happiness,"Implication of 'not regretting' implies a positive outcome or resolution, suggesting happiness."
+Thank you. Thank you.,happiness,happiness,"Polite and positive tone, typical of gratitude"
+"-You're way too beautiful, girl.",happiness,,"Error parsing JSON: Expecting ',' delimiter: line 3 column 153 (char 191)"
+The look.,happiness,,"Error parsing JSON: Expecting ',' delimiter: line 3 column 169 (char 204)"
+minutes.,neutral,neutral,time unit without context
+"How treats her, how she speaks.",happiness,disgust,Implies that someone's treatment or behavior towards 'her' is unacceptable
+See that it does not continue in this same attitude.,sadness,disgust,Implying that the attitude is undesirable or unacceptable
+It is that boy who is eating the tits to one.,disgust,,"Error parsing JSON: Expecting ',' delimiter: line 3 column 107 (char 142)"
+Miguel makes me a ring.,surprise,happiness,implying that Miguel's action is a kind or thoughtful gesture
+Do not bite your lip.,anger,neutral,"The sentence is giving advice or warning, and does not convey a strong emotion."
+I have thought about it many times.,neutral,happiness,
+It has a lot of value.,happiness,,"Error parsing JSON: Expecting ',' delimiter: line 3 column 57 (char 94)"
+I have not seen a look.,sadness,disgust,implies distaste or lack of expression
+I need to understand ...,sadness,fear,Sense of uncertainty or anxiety about not understanding something
+Do you feel like? Yeah.,neutral,,"Error parsing JSON: Expecting ',' delimiter: line 3 column 89 (char 125)"
+"My love, I'm very close to 30.",fear,neutral,The sentence expresses a factual statement about the speaker's age without conveying a specific emotional tone.
+I don't care if it's Caribbean,neutral,,"Error parsing JSON: Expecting ',' delimiter: line 3 column 126 (char 161)"
+And it is a kid.,surprise,disgust,"The statement seems to be about a child, which is typically a neutral topic, but the way it's presented in this context might imply disgust or distaste."

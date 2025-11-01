@@ -1,0 +1,18 @@
+pandas>=1.0.0
+assemblyai
+deep_translator>=1.8.1
+pytube>=11.0.0
+tensorflow
+tf-keras # use this if you have tf-keras installed
+transformers
+datasets
+ftfy
+sentencepiece
+torch>=2.0.0
+pytubefix
+pandas
+regex
+emoji
+contractions
+tensorflow
+sacremoses

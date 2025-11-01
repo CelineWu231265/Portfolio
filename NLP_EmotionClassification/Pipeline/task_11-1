@@ -1,0 +1,15 @@
+<script>start("/Users/Buas/Desktop/Data Start/GitHub/Ano 2/2024-25c-fai2-adsai-DeuzaVarela235065/task_11/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("translation_model","translation_model",1,352,"352 B",1744150174,"09/04/2025, 00:09:34");</script>
+<script>addRow(".env",".env",0,51,"51 B",1744144479,"08/04/2025, 22:34:39");</script>
+<script>addRow("tf_model.h5","tf_model.h5",0,51609840,"49.2 MB",1744136834,"08/04/2025, 20:27:14");</script>
+<script>addRow("extracted_sentences.csv","extracted_sentences.csv",0,110763,"108 kB",1744144611,"08/04/2025, 22:36:51");</script>
+<script>addRow("La isla de las tentaciones | Temporada 7 capitulo 7.mp3","La%20isla%20de%20las%20tentaciones%20%7C%20Temporada%207%20capitulo%207.mp3",0,46519252,"44.4 MB",1744144540,"08/04/2025, 22:35:40");</script>
+<script>addRow("model_sentiment.ipynb","model_sentiment.ipynb",0,14307,"14.0 kB",1744147268,"08/04/2025, 23:21:08");</script>
+<script>addRow("pipeline copy.ipynb","pipeline%20copy.ipynb",0,6809,"6.6 kB",1744130299,"08/04/2025, 18:38:19");</script>
+<script>addRow("pipeline.ipynb","pipeline.ipynb",0,6131,"6.0 kB",1744142429,"08/04/2025, 22:00:29");</script>
+<script>addRow("pipeline.py","pipeline.py",0,6421,"6.3 kB",1744144504,"08/04/2025, 22:35:04");</script>
+<script>addRow("requirements.txt","requirements.txt",0,242,"242 B",1744144611,"08/04/2025, 22:36:51");</script>
+<script>addRow("translated_emotions.csv","translated_emotions.csv",0,187920,"184 kB",1744147459,"08/04/2025, 23:24:19");</script>
+<script>addRow("translated_output.csv","translated_output.csv",0,185324,"181 kB",1744147455,"08/04/2025, 23:24:15");</script>
+<script>addRow("translation_model.ipynb","translation_model.ipynb",0,10215,"10.0 kB",1744128421,"08/04/2025, 18:07:01");</script>
