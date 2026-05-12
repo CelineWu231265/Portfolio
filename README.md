@@ -1,7 +1,7 @@
 # Celine Wu – Data Science and Artificial Intelligence Portfolio
 
 ## About Me
-I am a third-year Data Science and Artificial Intelligence student at **Breda University of Applied Sciences**, currently looking for an **internship starting February 2026**.
+I am a third-year Data Science and Artificial Intelligence student at **Breda University of Applied Sciences**, currently looking for an **internship starting September 2026**.
 
 Throughout my studies, I have developed a strong foundation in **machine learning**, **data analytics**, **computer vision**, **natural language processing**, and **MLOps**.  
 I am also a **Student Ambassador** for the university, representing the Data Science and AI program, where I support prospective students and contribute to academic and community events.
@@ -91,6 +91,6 @@ Expected Graduation: 2027
 
 ---
 
-## Internship Objective – February 2026
+## Internship Objective – September 2026
 I am seeking an internship opportunity where I can apply my skills in **machine learning**, **AI engineering**, or **data science**, while continuing to learn from industry professionals.  
 My goal is to contribute meaningfully to innovative AI projects and gain experience in professional, data-driven environments.
