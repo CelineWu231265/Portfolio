@@ -98,9 +98,3 @@ Expected Graduation: 2027
 ## Contact
 - **Email:** [celinewu04@gmail.com]()  
 - **LinkedIn:** [www.linkedin.com/in/celine-wu-8494672a8]()  
-
----
-
-## Internship Objective – September 2026
-I am seeking an internship opportunity where I can apply my skills in **machine learning**, **AI engineering**, or **data science**, while continuing to learn from industry professionals.  
-My goal is to contribute meaningfully to innovative AI projects and gain experience in professional, data-driven environments.
