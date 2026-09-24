@@ -23,10 +23,10 @@ Expected Graduation: 2027
 ## Experience
 **Data Analytics Intern - ASML, Veldhoven**
 - Develop and monitor Key Performance Indicators (KPIs) to evaluate manufacturing and business performance.
-– Analyze existing KPIs to assess effectiveness and identify opportunities for improvement.
-– Perform exploratory data analysis (EDA) to uncover trends, anomalies, and patterns in manufacturing datasets.
-– Create dashboards and visualizations to communicate insights to stakeholders.
-– Transform raw data into actionable insights to support data-driven decision-making
+- Analyze existing KPIs to assess effectiveness and identify opportunities for improvement.
+- Perform exploratory data analysis (EDA) to uncover trends, anomalies, and patterns in manufacturing datasets.
+- Create dashboards and visualizations to communicate insights to stakeholders.
+- Transform raw data into actionable insights to support data-driven decision-making
 
 ---
 
